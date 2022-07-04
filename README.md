@@ -4,6 +4,7 @@ POST /register<br/>
 POST /signup<br/>
 POST /users<br/>
 
+`https://api-capstone-grupo1.herokuapp.com`
 Espera-se: 
 ```json
 {
@@ -11,7 +12,7 @@ Espera-se:
   "password": "Senha123",
   "name": "User Teste",
   "age": 25,
-  "pokemon": []
+  "pokemon": ["Poke-Inicial"]
 }
 ```
 
