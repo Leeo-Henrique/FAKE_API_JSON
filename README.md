@@ -4,7 +4,7 @@ POST /register<br/>
 POST /signup<br/>
 POST /users<br/>
 
-`https://api-capstone-grupo1.herokuapp.com`
+`https://api-capstone-grupo1.herokuapp.com`<br/>
 Espera-se: 
 ```json
 {
