@@ -1,4 +1,41 @@
 {
   "users": [
-  ]  
+    {
+      "email": "mail2@mail.com",
+      "password": "$2a$10$MxOYlt3ByoUSAq1a7WUBvuMoYwg1kJ6awhFvcszCqwAguRW1EhFH.",
+      "name": "User Teste",
+      "age": 25,
+      "pokemon": [
+        {
+          "Name": "Charmander",
+          "status": 2
+        },
+        {
+          "Name": "Eeve",
+          "status": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "masdasdail2@mail.com",
+      "password": "$2a$10$XeENSl93sgYM8luV/zWQxuFhzQhtkZj2x3FRtf0Bg3EZBZq8KFUyO",
+      "name": "User Teste",
+      "age": 25,
+      "pokemon": [
+        "charmander"
+      ],
+      "id": 2
+    },
+    {
+      "email": "masdasdaaail2@mail.com",
+      "password": "$2a$10$axKtN7pxhRnMLhenyhEjt.pVqFR.e2j8xx4Afs0aBAc/Z4mYRY1bO",
+      "name": "User Teste",
+      "age": 25,
+      "pokemon": [
+        "charmander"
+      ],
+      "id": 3
+    }
+  ]
 }
