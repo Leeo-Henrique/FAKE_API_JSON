@@ -48,3 +48,30 @@ POST /signin
 ```
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+### Troca
+GET /troca <br/>
+```json
+{
+"auth": "Bearer"
+}
+```
+
+POST /troca <br/>
+
+```json
+{
+  "pokemon": {
+    "oferecido": "charmander",
+    "procurado": "Bulbasaur"
+  },
+  "userID": 1,
+  "userName": "User Teste",
+  "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
+  "trocado": false,
+  "id": 2
+}
+{
+"auth": "Bearer"
+}
+```
