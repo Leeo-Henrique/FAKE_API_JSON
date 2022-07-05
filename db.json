@@ -1,43 +1,4 @@
 {
-  "users": [
-    {
-      "email": "email@mail.com",
-      "password": "$2a$10$zXuQf7MhTK2AYR4YaLen0.9TpOBj5.UYQXqhGVpkAeNo3opITyySC",
-      "name": "User Teste",
-      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
-      "pokemon": [],
-      "id": 1
-    },
-    {
-      "email": "email2@mail.com",
-      "password": "$2a$10$nmZjjO/p6XSVOtBGeJqDluEmL8xK3qS/Ccv0cS6HgZ68Q18D7PweS",
-      "name": "User Teste",
-      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
-      "pokemon": [],
-      "id": 2
-    }
-  ],
-  "troca": [
-    {
-      "pokemon": {
-        "oferecido": "charmander",
-        "procurado": "Bulbasaur"
-      },
-      "userID": 1,
-      "userName": "User Teste",
-      "trocado": false,
-      "id": 1
-    },
-    {
-      "pokemon": {
-        "oferecido": "charmander",
-        "procurado": "Bulbasaur"
-      },
-      "userID": 1,
-      "userName": "User Teste",
-      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
-      "trocado": false,
-      "id": 2
-    }
-  ]
+  "users": [],
+  "troca": []
 }
