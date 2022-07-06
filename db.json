@@ -50,6 +50,39 @@
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
       "exchange": false,
       "id": 3
+    },
+    {
+      "pokemon": {
+        "offered": "squirtle",
+        "wanted": "mew"
+      },
+      "userID": 1,
+      "userName": "User Teste",
+      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
+      "exchange": false,
+      "id": 4
+    },
+    {
+      "pokemon": {
+        "offered": "squirtle",
+        "wanted": "mewtwo"
+      },
+      "userID": 1,
+      "userName": "User Teste",
+      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
+      "exchange": false,
+      "id": 5
+    },
+    {
+      "pokemon": {
+        "offered": "charizard",
+        "wanted": "dratini"
+      },
+      "userID": 2,
+      "userName": "User Teste2",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+      "exchange": false,
+      "id": 6
     }
   ]
 }
