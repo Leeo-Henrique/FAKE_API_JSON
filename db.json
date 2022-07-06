@@ -1,4 +1,55 @@
 {
-  "users": [],
-  "troca": []
+  "users": [
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$yLAqpvkovnd2sWTIA9BMQeuMRC.kbtSIC1ODd5tUx0t/VzvfCF4g.",
+      "name": "User Teste",
+      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
+      "pokemon": [],
+      "id": 1
+    },
+    {
+      "email": "teste2@mail.com",
+      "password": "$2a$10$HSu6CVuRbCztIOgubYi7A.IVjh78Om9VWqP0d/iKe54O7Bi/8O9Ki",
+      "name": "User Teste2",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+      "pokemon": [],
+      "id": 2
+    }
+  ],
+  "troca": [
+    {
+      "pokemon": {
+        "offered": "dratini",
+        "wanted": "charizard"
+      },
+      "userID": 1,
+      "userName": "User Teste",
+      "img": "https://davidgabrieloliveira.gallerycdn.vsassets.io/extensions/davidgabrieloliveira/mussumipsum/1.0.0/1567042744450/Microsoft.VisualStudio.Services.Icons.Default",
+      "exchange": false,
+      "id": 1
+    },
+    {
+      "pokemon": {
+        "offered": "bulbasaur",
+        "wanted": "charmander"
+      },
+      "userID": 2,
+      "userName": "User Teste2",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+      "exchange": false,
+      "id": 2
+    },
+    {
+      "pokemon": {
+        "offered": "charizard",
+        "wanted": "dratini"
+      },
+      "userID": 2,
+      "userName": "User Teste2",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+      "exchange": false,
+      "id": 3
+    }
+  ]
 }
